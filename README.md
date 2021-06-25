@@ -1,2 +1,16 @@
+
 # Mordern_website
-Created using node project manager and latest version of sass mainly 
+
+**SINGLE VERSION**
+
+Built with sass
+
+---
+# Contibutors
+- Yasir Gaji <yasirgaji@pleasantcodes.com>
+
+---
+# License & Copyright
+
+© Yasir Gaji, PLEASANT CODES INC.
+
